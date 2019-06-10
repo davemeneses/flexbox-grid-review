@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>CSS Grid</title>
+  </head>
+  <style>
+    /* this is just to visibly see how our grid is separated */
+    .grid-wrapper > div {
+      background: lightgrey;
+      padding: 1em;
+    }
+    .grid-wrapper > div:nth-child(even) {
+      background: lightblue;
+    }
+    .grid-wrapper {
+      padding: 1em;
+
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      grid-gap: 1em;
+      grid-auto-rows: minmax(100px, auto);
+    }
+  </style>
+  <body>
+    <div class="grid-wrapper">
+      <div class="box1">1</div>
+      <div class="box2">2</div>
+      <div class="box3">3</div>
+      <div class="box4">4</div>
+      <div class="box5">5</div>
+      <div class="box6">6</div>
+      <div class="box7">7</div>
+      <div class="box8">8</div>
+      <div class="box9">9</div>
+    </div>
+  </body>
+</html>
