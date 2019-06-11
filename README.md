@@ -28,6 +28,8 @@ Here's some links that helped my learn this stuff, all for free!
 
 #### Flexbox Resources
 
+---
+
 This is a video I found SUPER useful when teaching myself Flexbox Stuff. Traversy is a really great teacher and you should check out his channel for more helpful videos.
 
 [Flexbox CSS In 20 Minutes](https://www.youtube.com/watch?v=JJSoEo8JSnc&t=102s)
@@ -37,6 +39,8 @@ This is a fun game that helps you practice aligning things while using flex box 
 [Flexbox Froggy](https://flexboxfroggy.com/)
 
 #### CSS Grid
+
+---
 
 This is the equivalent video Traversy made made for CSS Grid. Super helpful and he often updates his stuff.
 [CSS Grid Layout Crash Course](https://www.youtube.com/watch?v=jV8B24rSN5o)
