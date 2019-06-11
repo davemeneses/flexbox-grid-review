@@ -24,7 +24,7 @@ Feel free to play around with this! This is just the tip of the iceberg when it 
 
 ## Additional Resources
 
-## Here's some links that helped my learn this stuff, all for free!
+Here's some links that helped my learn this stuff, all for free!
 
 #### Flexbox Resources
 
